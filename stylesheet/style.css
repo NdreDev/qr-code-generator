@@ -11,9 +11,14 @@ html, body{
 .navbar, .footer {
   align-content: center;
 }
-.navbar > h1, .footer > h1 {
+.navbar-content, .footer > h1 {
   width: 70%;
   margin: 0 auto;
+}
+
+.navbar-content > img {
+  width: 40px;
+
 }
 
 .inputfields {
