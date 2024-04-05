@@ -1,4 +1,4 @@
-var qrcode = new QRCode("qrcode"); // create qrcode instance
+var qrcode = new QRCode("qrcode"); // Initialize Library
 const form = document.getElementById("details");
 
 
